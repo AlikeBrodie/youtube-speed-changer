@@ -1,5 +1,5 @@
 export const DisplayTemplate = `
-<div style="font-size: 14px">
+<div style="font-size: 14px" class="content style-scope ytd-video-secondary-info-renderer">
   <h1 style='padding-top: 25px; padding-bottom: 10px' class='title ytd-video-primary-info-renderer'>⚡ Youtube Speed Changer Extension</h1>
   <div>Speed: <span id='ytsc-speed'>100%</span></div>
   <div>Start point: <span id='ytsc-start'>0</span></div>
